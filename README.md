@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p >
-  <a href="https://github.com/gamussa?tab=repositories">
+  <a href="https://github.com/andrewmcnamara?tab=repositories">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmcnamara&layout=compact&theme=dracula"
